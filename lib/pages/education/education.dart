@@ -26,7 +26,7 @@ class _MyEducationState extends State<MyEducation> {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.indigo,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -47,7 +47,7 @@ class _MyEducationState extends State<MyEducation> {
                           const Text(
                             'Lauro Damerval Ayora Nº1',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.indigo,
                               fontSize: 28.0,
                               fontWeight: FontWeight.bold,
                             ),
@@ -77,7 +77,7 @@ class _MyEducationState extends State<MyEducation> {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.indigo,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -98,7 +98,7 @@ class _MyEducationState extends State<MyEducation> {
                           const Text(
                             'Colegio Fiscomisional "La Dolorosa"',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.indigo,
                               fontSize: 24.0,
                               fontWeight: FontWeight.bold,
                             ),
@@ -128,7 +128,7 @@ class _MyEducationState extends State<MyEducation> {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.indigo,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -149,7 +149,7 @@ class _MyEducationState extends State<MyEducation> {
                           const Text(
                             'Universidad Técnica Particular de Loja',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.indigo,
                               fontSize: 24.0,
                               fontWeight: FontWeight.bold,
                             ),
@@ -179,7 +179,7 @@ class _MyEducationState extends State<MyEducation> {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.indigo,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -203,7 +203,7 @@ class _MyEducationState extends State<MyEducation> {
                           const Text(
                             'Istituto Los Andes',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.indigo,
                               fontSize: 24.0,
                               fontWeight: FontWeight.bold,
                             ),

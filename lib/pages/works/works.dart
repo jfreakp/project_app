@@ -16,7 +16,7 @@ class MyWorkPage extends StatelessWidget {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.indigo,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -29,7 +29,7 @@ class MyWorkPage extends StatelessWidget {
                         child: const Icon(
                           Icons.bug_report,
                           size: 50,
-                          color: Colors.blue,
+                          color: Colors.indigo,
                         ),
                       ),
                     ),
@@ -41,7 +41,7 @@ class MyWorkPage extends StatelessWidget {
                           const Text(
                             'UTPL',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.indigo,
                               fontSize: 24.0,
                               fontWeight: FontWeight.bold,
                             ),
@@ -71,7 +71,7 @@ class MyWorkPage extends StatelessWidget {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.indigo,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -83,7 +83,7 @@ class MyWorkPage extends StatelessWidget {
                         borderRadius: BorderRadius.circular(24.0),
                         child: const Icon(
                           Icons.phone_android,
-                          color: Colors.blue,
+                          color: Colors.indigo,
                           size: 50,
                         ),
                       ),
@@ -96,7 +96,7 @@ class MyWorkPage extends StatelessWidget {
                           const Text(
                             'Banco de Loja',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.indigo,
                               fontSize: 24.0,
                               fontWeight: FontWeight.bold,
                             ),
@@ -126,7 +126,7 @@ class MyWorkPage extends StatelessWidget {
               child: Material(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(24.0),
-                shadowColor: Colors.blue,
+                shadowColor: Colors.indigo,
                 elevation: 14.0,
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -138,7 +138,7 @@ class MyWorkPage extends StatelessWidget {
                         borderRadius: BorderRadius.circular(24.0),
                         child: const Icon(
                           Icons.code,
-                          color: Colors.blue,
+                          color: Colors.indigo,
                           size: 50,
                         ),
                       ),
@@ -151,7 +151,7 @@ class MyWorkPage extends StatelessWidget {
                           const Text(
                             'Novacomp',
                             style: TextStyle(
-                              color: Colors.blue,
+                              color: Colors.indigo,
                               fontSize: 24.0,
                               fontWeight: FontWeight.bold,
                             ),

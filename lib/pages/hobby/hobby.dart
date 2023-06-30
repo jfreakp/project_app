@@ -27,7 +27,7 @@ class MyHobbyPage extends StatelessWidget {
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: const [
-                          Icon(Icons.sports_soccer, color: Colors.blue, size: 70),
+                          Icon(Icons.sports_soccer, color: Colors.indigo, size: 70),
                           Text("Fútbol"),
                         ],
                       ),
@@ -42,7 +42,7 @@ class MyHobbyPage extends StatelessWidget {
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: const [
-                          Icon(Icons.games, color: Colors.blue, size: 70),
+                          Icon(Icons.games, color: Colors.indigo, size: 70),
                           Text("Video Juegos"),
                         ],
                       ),
@@ -59,7 +59,7 @@ class MyHobbyPage extends StatelessWidget {
                         children: const [
                           Icon(
                             Icons.code,
-                            color: Colors.blue,
+                            color: Colors.indigo,
                             size: 70,
                           ),
                           Text("Programar"),
