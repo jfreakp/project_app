@@ -1,3 +1,1 @@
-### 💖&ensp;Portfolio App
-Portfolio App Poyecto Final 💖&ensp;
-
+Portfolio App Poyecto Final de Diseño y desarrollo de aplicaciones
